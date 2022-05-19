@@ -1,0 +1,15 @@
+import React from "react";
+
+export function Contact() {
+  return (
+    <div id="contact">
+      <h2>
+        Contact
+      </h2>
+      <p><span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Facilis quibusdam accusamus fugit vero expedita similique odio earum, voluptatibus quod. Odit nesciunt, amet vitae natus et accusamus perspiciatis delectus quidem alias!</span><span>Autem, vitae libero! Perferendis porro sed sit eligendi accusamus velit, molestias non molestiae optio maiores sunt, unde dolorem harum corrupti consequatur. Placeat, vero qui sapiente possimus ducimus cum quam et.</span><span>Laudantium doloribus obcaecati, tenetur ea ullam dolore, dolorem quae maiores natus excepturi quisquam aliquam deleniti. Eveniet accusamus laborum animi voluptatibus illo sequi voluptate, doloremque, qui facilis minima perspiciatis exercitationem quae?</span></p>
+      <p><span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia veniam quam odio dolores explicabo tempore unde, suscipit necessitatibus, neque sequi iure labore, commodi voluptas non ratione voluptatum fugit nihil quae!</span><span>Necessitatibus voluptates doloribus nemo harum officia nihil suscipit officiis illum sunt nesciunt tempore quisquam repellendus enim dicta ab distinctio, quam ipsa itaque aut debitis odio eveniet excepturi! Doloribus, aspernatur magni.</span><span>Ea assumenda quod beatae quaerat at, facere eligendi obcaecati vitae nam quo minima corporis optio praesentium natus eum amet ut in? Enim cum eveniet nemo repudiandae odit animi! Dolores, libero.</span></p>
+      <p><span>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas laudantium voluptates iste ad cumque commodi libero! Quis totam autem provident. In perspiciatis aperiam assumenda eveniet repellendus, repellat quibusdam! Dolor, ab.</span><span>Magni quidem recusandae repudiandae, doloremque eos sunt deleniti odio. Quia, laborum repellendus aperiam non earum, iusto veniam omnis perferendis commodi consequatur, vel quam molestias cupiditate reprehenderit. Vel quos laudantium repellat.</span><span>Dolorum expedita, commodi dicta doloremque rem aperiam quas praesentium quam explicabo sed cumque laudantium accusantium eum nisi molestias consequuntur, eaque sint nobis, facilis necessitatibus? Architecto maxime inventore at unde itaque!</span></p>
+      <p><span>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Maxime, unde cupiditate necessitatibus amet quis deserunt eos possimus qui obcaecati, quo a! Consequatur pariatur quis dolorum iste corporis, autem facilis quos.</span><span>Fugiat saepe consequuntur error odio adipisci quisquam perspiciatis reiciendis neque quo deserunt fugit nisi quas unde vitae officiis obcaecati rerum tempora, esse eum, laborum fuga eveniet temporibus enim? Magnam, aliquid!</span><span>Odit corporis assumenda voluptates similique eveniet sit iure qui sapiente molestiae, nesciunt facere itaque ab minus quos iusto laboriosam voluptatibus eos vitae explicabo nihil, veritatis ipsam, quidem soluta rem. Necessitatibus!</span></p>
+    </div>
+  );
+}
